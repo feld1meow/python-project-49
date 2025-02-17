@@ -1,0 +1,12 @@
+[2/17/2025, 10:34:49 PM] info: Logging was started to file.
+[2/17/2025, 10:34:49 PM] info: Start application inspector initialization
+[2/17/2025, 10:34:49 PM] info: Hide developer mode UI
+[2/17/2025, 10:34:49 PM] info: Infrastructure Configurations: {"port":8000,"infrastructureAssemblyFolderPath":"C:\\Users\\audio\\AppData\\Local\\Application Inspector Analyzer","applicationResourcesFolderPath":"C:\\Users\\audio\\AppData\\Local\\Application Inspector Analyzer","scanTargetFolderPath":"c:\\Users\\audio\\Documents\\VS Code\\python-project-49","isDebugging":false,"logLevel":{"q8_1":"Error","r8_1":5,"type":5,"key":"Settings.LogLevel.Error.Text"},"logDir":"c:\\Users\\audio\\Documents\\VS Code\\python-project-49\\.ai\\Logs\\Infrastructure\\2025-02-17-22-34-49","tipsFoundNotificationThreshold":1000,"similarIssuesFoundNotificationThreshold":1000,"applicationLocalDataFolderPath":"c:\\Users\\audio\\Documents\\VS Code\\python-project-49\\.ai"}
+[2/17/2025, 10:34:49 PM] info: Start infrastructure initialization
+[2/17/2025, 10:34:50 PM] info: Infrastructure was started
+[2/17/2025, 10:34:51 PM] info: Initialize aie integration isn't initialized
+[2/17/2025, 10:34:51 PM] info: Infrastructure was initialized
+[2/17/2025, 10:34:51 PM] info: Infrastructure Installer was deleted
+[2/17/2025, 10:34:51 PM] info: Clean up logs files was started
+[2/17/2025, 10:34:51 PM] info: Clean up logs files was finished
+[2/17/2025, 10:34:52 PM] info: Project was created. Id: 3db8e111-c8ed-4bfd-9944-013de759d932
