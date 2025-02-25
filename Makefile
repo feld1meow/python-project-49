@@ -10,5 +10,5 @@ package-install:
 brain-games:
 	uv run brain-games
 
-report:
-	./gradlew jacocoTestReport
+lint:
+	uv run ruff check brain_games
